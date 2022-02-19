@@ -1,0 +1,76 @@
+* {
+    margin:0;
+    padding:0;
+}
+body {
+    background-image: linear-gradient(to right, yellow,red);
+}
+nav {
+    background-color: brown;
+    padding:40px;
+    
+}
+#nav-container {
+    display: flex;
+}
+
+#nav-logo {
+    text-decoration: none;
+    color: azure;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: azure;
+    
+}
+nav ul {
+    margin-left: 560px;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 5px;
+}
+
+#selection-card {
+    padding-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    background-color: azure;
+    margin-top: 30%;
+    margin-bottom: auto;
+    border-radius: 1.5rem;
+    box-shadow: gray;
+}
+#card-title {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.title-desc {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    font-style: oblique;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+footer {
+    background-color: black;
+}
+.sel-buttons {
+    position: relative;
+    left:15%;
+    width:40%;
+}
+
+.btn {
+    padding: 1.5rem;
+    background-color: rgb(29, 29, 253);
+    color: white;
+    border-radius: 1rem;
+    margin-top: 50px;
+    width:100%;
+}
