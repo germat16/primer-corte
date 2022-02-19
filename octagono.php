@@ -26,17 +26,7 @@
         </nav>
 
         <div id="selection-card">
-           <div class="title">
-           <h3 id="card-title">Actividades de primer corte</h3>
-            <p class="title-desc">Seleccione entre uno de los siguientes botones, 
-                cada uno le llevará para una pagina correspondiente a susodicha actividad</p>
-           </div>
-
-           <div class="sel-buttons">
-               <button class="btn" id="btn1">Calculo de Hipotenusa de un trianguo rectangulo</button>
-               <button class="btn" id="btn2">Calculo del area de un octagono regular</button>
-               <button class="btn" id="btn3">Calculo de Hipotenusa de un trianguo rectangulo</button>
-           </div>
+           
         </div>
 
         <footer>
